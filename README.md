@@ -8,7 +8,7 @@
 
 <h3 align="left">Live server:</h3>
 <p align="left"> <a href="car-network.netlify.app" target="_blank" rel="noreferrer">
- <a href="www.car-network.netlify.app" target="_blank" rel="noreferrer"> car-network.netlify.app </a> 
+ <a href="https://car-network.netlify.app" target="_blank" rel="noreferrer"> car-network.netlify.app </a> 
 
 <h3 align="left">Tech:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
